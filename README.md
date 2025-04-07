@@ -1,5 +1,5 @@
 # [LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation](https://arxiv.org/abs/2503.06508)
-
+Our code will be released as soon as possible.
 ## Abstract
 ![](assets/overall_pipeline.png)
 ![](assets/permutation_resampling.png)
