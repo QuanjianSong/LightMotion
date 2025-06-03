@@ -24,7 +24,7 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
 <p align="center">
     <span>
         <a href="https://arxiv.org/abs/2503.06508" target="_blank"> 
-        <img src='https://img.shields.io/badge/arXiv2503.06508-LightMotion-red' alt='Paper PDF'></a> &emsp;  &emsp; 
+        <img src='https://img.shields.io/badge/arXiv%202503.06508-LightMotion-red' alt='Paper PDF'></a> &emsp;  &emsp; 
     </span>
     <span> 
         <a href='https://github.com/QuanjianSong/LightMotion' target="_blank">
