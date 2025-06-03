@@ -24,15 +24,15 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
 <p align="center">
     <span>
         <a href="https://arxiv.org/abs/2410.20084" target="_blank"> 
-        <img src='https://img.shields.io/badge/arXiv-2410.20084%20UniVST-red' alt='Paper PDF'></a> &emsp;  &emsp; 
+        <img src='https://img.shields.io/badge/arXiv2503.06508-LightMotion-red' alt='Paper PDF'></a> &emsp;  &emsp; 
     </span>
     <span> 
         <a href='https://github.com/QuanjianSong/LightMotion' target="_blank">
-        <img src='https://img.shields.io/badge/Project_Page-UniVST-green' alt='Project Page'></a>  &emsp;  &emsp;
+        <img src='https://img.shields.io/badge/Project_Page-LightMotion-green' alt='Project Page'></a>  &emsp;  &emsp;
     </span>
     <span> 
         <a href='https://huggingface.co/papers/2410.20084' target="_blank"> 
-        <img src='https://img.shields.io/badge/Hugging_Face-UniVST-yellow' alt='Project Page'></a> &emsp;  &emsp;
+        <img src='https://img.shields.io/badge/Hugging_Face-LightMotion-yellow' alt='Project Page'></a> &emsp;  &emsp;
     </span>
 </p>
 </div>
