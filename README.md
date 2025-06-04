@@ -37,7 +37,7 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
 </p>
 </div>
 
-## 🔥🔥🔥 News
+## 🎉 News
 <pre>
 • <strong>2025.03.08</strong>: 🔥 Our code will be released as soon as possible.
 </pre>
