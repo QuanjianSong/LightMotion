@@ -8,14 +8,15 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
     <a href='https://scholar.google.com/citations?user=UpqNGLYAAAAJ&hl=zh-CN&oi=ao' target='_blank' style='text-decoration:none'>Zhihang Lin<sup>1,2</sup></a>, &ensp;
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=P9ctuRUAAAAJ&view_op=list_works&sortby=pubdate' target='_blank' style='text-decoration:none'>Zhanpeng Zeng<sup>1</sup></a>, &ensp;
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=6b9pVLIAAAAJ' target='_blank' style='text-decoration:none'>Ziyue Zhang<sup>1</sup></a>, &ensp;
-    <a href='https://mac.xmu.edu.cn/ljcao/' target='_blank' style='text-decoration:none'>Liujuan Cao<sup>1</sup></a>, &ensp;
+    <a href='https://mac.xmu.edu.cn/ljcao/' target='_blank' style='text-decoration:none'>Liujuan Cao<sup>1,†</sup></a>, &ensp;
     <a href='https://mac.xmu.edu.cn/rrji/' target='_blank' style='text-decoration:none'>Rongrong Ji<sup>1</sup></a>
 </div>
 
 <div>
     <sup>1</sup> Key Laboratory of Multimedia Trusted Perception and Efficient Computing, <br> Ministry of Education of China, Xiamen University, China.
     <br>
-    <sup>2</sup> Shanghai Innovation Institute.
+    <sup>2</sup> Shanghai Innovation Institute.  &ensp;
+    <sup>†</sup> Corresponding Author.
     
 </div>
 
