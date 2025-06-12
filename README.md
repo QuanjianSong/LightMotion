@@ -60,6 +60,7 @@ Existing camera motion-controlled video generation methods face computational bo
 <img src="assets/combination.png" style="width:100%; height:100%;"/>
 
 ## 🎓 Bibtex
+🤗 If you find this code helpful for your research, please cite:
 ```
 @article{song2025lightmotion,
   title={LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation},
