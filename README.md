@@ -33,7 +33,7 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
     </span>
     <span> 
         <a href='https://huggingface.co/papers/2503.06508' target="_blank"> 
-        <img src='https://img.shields.io/badge/Hugging_Face-LightMotion-yellow' alt='Project Page'></a> &emsp;  &emsp;
+        <img src='https://img.shields.io/badge/Hugging_Face-LightMotion-yellow' alt='Hugging Face'></a> &emsp;  &emsp;
     </span>
 </p>
 </div>
