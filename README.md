@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation [Official Code of PyTorch]
+LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation
 </h1>
 
 <div>
