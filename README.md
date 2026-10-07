@@ -41,7 +41,7 @@ LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Vide
 ## 🎉 News
 <pre>
 • <strong>2026.01</strong>: 🔥 The <a href="https://quanjiansong.github.io/projects/LightMotion">project page</a> of LightMotion is now available.
-• <strong>2025.03</strong>: 🔥 The paper of UniVST has been submitted to <a href="https://arxiv.org/abs/2503.06508">arXiv</a>
+• <strong>2025.03</strong>: 🔥 The paper of UniVST has been submitted to <a href="https://arxiv.org/abs/2503.06508">arXiv</a>.
 </pre>
 
 
